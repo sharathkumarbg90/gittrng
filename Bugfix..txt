@@ -1,0 +1,4 @@
+git branch Bugfix
+move to Bugfix branch
+merge with master
+remove Bugfix branch
